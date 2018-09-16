@@ -2,9 +2,6 @@
 <html>
   <head>
     <title>${title}</title>
-    <link rel="Stylesheet" type="text/css" href="css/screen.css" media="screen">
-    <link rel="Stylesheet" type="text/css" href="css/speech.css" media="speech">
-    <link rel="Stylesheet" type="text/css" href="css/print.css" media="print">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <header>
@@ -12,20 +9,20 @@
       <h1>Base2Base Calculator</h1>
   </header>
   <body>
-    <form method="post">
+    <form method="post" action="">
       Number:<br>
-      <input type="text" name="number" required>
+      <input type="text" name="num" required>
       <br>
       FromBase:<br>
-      <select name= "fromBase" required>
+      <select name= "frombase" required>
         <option value = "2">2</option>
         <option value = "8">8</option>
-        <option value = "10">10</option>
+        <option value = "10" selected>10</option>
         <option value = "16">16</option>
       </select>
       <br>
       ToBase:<br>
-      <select name= "toBase" required>
+      <select name= "tobase" required>
         <option value = "2">2</option>
         <option value = "8">8</option>
         <option value = "10">10</option>
@@ -34,8 +31,5 @@
       <br>
       <input type="submit" value="Submit">
     </form>
-    <hr>
-    ${postdata}
-    <hr>
   </body>
 </html>
