@@ -9,35 +9,41 @@ def application(env, start_response):
     qs = parse_qs(env['QUERY_STRING'])
     """Handling the Query String Interface."""
     if len(qs) > 0:
-      #If there exist a query string
-      qsNumber = qs.get("num")
-      qsNumber = qsNumber[0]
-      #Save number as a string
-      qsFrombase = qs.get("frombase")
-      qsFrombase = int(qsFrombase[0])
-      #Save frombase int value
-      qsTobase = qs.get("tobase")
-      qsTobase = int(qsTobase[0])
-      #Save tobase int value
-      #Converts qsNumber to the right base and saved into converted
-      converted = int(qsNumber,qsFrombase)
-      if qsTobase == 2:
-        converted = bin(converted)
-      elif qsTobase == 8:
-        converted = oct(converted)
-      elif qsTobase == 16:
-        converted = hex(converted)
-      html_template = Template(filename='./templates/correct.html')
-      html_dict ={
-        'title': 'Base Conversion Calculator',
-        'originalValue': pprint.pformat(qsNumber),
-        'fromBase': pprint.pformat(qsFrombase),
-        'toBase':  pprint.pformat(qsTobase),
-        'convertednumber':  pprint.pformat(converted)
-      }
+      try:  
+        #If there exist a query string
+        qsNumber = qs.get("num")
+        qsNumber = qsNumber[0]
+        #Save number as a string
+        qsFrombase = qs.get("frombase")
+        qsFrombase = int(qsFrombase[0])
+        #Save frombase int value
+        qsTobase = qs.get("tobase")
+        qsTobase = int(qsTobase[0])
+        #Save tobase int value
+        #Converts qsNumber to the right base and saved into converted 
+        converted = int(qsNumber,qsFrombase)
+        if qsTobase == 2:
+          converted = bin(converted)
+        elif qsTobase == 8:
+          converted = oct(converted)
+        elif qsTobase == 16:
+          converted = hex(converted)
+        html_template = Template(filename='./templates/correct.html')
+        html_dict ={
+          'title': 'Base Conversion Calculator',
+          'originalValue': pprint.pformat(qsNumber),
+          'fromBase': pprint.pformat(qsFrombase),
+          'toBase':  pprint.pformat(qsTobase),
+          'convertednumber':  pprint.pformat(converted)
+        }
+      except:
+        html_template = Template(filename='./templates/error.html')
+        html_dict ={
+          'title': 'Base Conversion Calculator'
+        }        
       response = html_template.render(**html_dict)
       return response.encode()
-    """Handling the POST Interface."""
+    """Handling the POST Interface and General access."""
     if env['REQUEST_METHOD'] == 'POST':
       content_length = int(env.get('CONTENT_LENGTH', 0))
       post_data = env['wsgi.input'].read(content_length)
@@ -75,7 +81,7 @@ def application(env, start_response):
         }
         response = html_template.render(**html_dict)
         return response.encode()
-    """Handling the GET/ general page access."""
+    #Handling the GET/ general page access.
     else:
       html_template = Template(filename='./templates/calc.html')
       html_dict ={

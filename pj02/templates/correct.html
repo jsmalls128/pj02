@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <title>${title}</title>
+  <link rel="stylesheet" href="/pj02/static/err.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <header>
     <title>${title}</title>
   </header>
   <body>
-    <h2>${originalValue} from base ${fromBase} to base ${toBase} is <br><h1>${convertednumber}</h1></h2>
-    <a href="/pj02/">Return Home</a>
+    <div class="text-wrapper">
+      <div class="subtitle">
+        ${originalValue} from base ${fromBase} to base ${toBase} is 
+      </div>
+        <br>
+        <div class="title">
+          ${convertednumber}
+        </div>
+      <div class="buttons">
+        <a class="button" href="/pj02/">Return Home</a>
+      </div>
+    </div>
   </body>
 </html>

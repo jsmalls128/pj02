@@ -2,34 +2,38 @@
 <html>
   <head>
     <title>${title}</title>
+    <link rel="stylesheet" href="/pj02/static/err.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
-  <header>
-    <div class="title-center">
-      <h1>Base2Base Calculator</h1>
-  </header>
-  <body>
-    <form method="post" action="">
-      Number:<br>
-      <input type="text" name="num" required>
-      <br>
-      FromBase:<br>
-      <select name= "frombase" required>
-        <option value = "2">2</option>
-        <option value = "8">8</option>
-        <option value = "10" selected>10</option>
-        <option value = "16">16</option>
-      </select>
-      <br>
-      ToBase:<br>
-      <select name= "tobase" required>
-        <option value = "2">2</option>
-        <option value = "8">8</option>
-        <option value = "10">10</option>
-        <option value = "16">16</option>
-      </select>
-      <br>
-      <input type="submit" value="Submit">
-    </form>
-  </body>
+  <div class="text-wrapper">
+    <header>
+      <div class="title">
+        Base2Base Calculator
+      </div>
+    </header>
+    <body>
+      <form method="post" action="">
+        Number:<br>
+        <input type="text" name="num" required>
+        <br>
+        FromBase:<br>
+        <select name= "frombase" required>
+          <option value = "2">2</option>
+          <option value = "8">8</option>
+          <option value = "10" selected>10</option>
+          <option value = "16">16</option>
+        </select>
+        <br>
+        ToBase:<br>
+        <select name= "tobase" required>
+          <option value = "2">2</option>
+          <option value = "8">8</option>
+          <option value = "10">10</option>
+          <option value = "16">16</option>
+        </select>
+        <br>
+        <input type="submit" value="Submit">
+      </form>
+    </body>
+  </div>
 </html>

@@ -1,14 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>${title}<title>
+  <title>${title}</title>
+  <link rel="stylesheet" href="/pj02/static/err.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <header>
   <title>An error has occured</title>
 </header>  
+<div ="error-background">
 <body>
-    <h1>An error has occured</h1>
-    <p>The value you provided was invalid for conversion.</p>
-    <p>Please <a href="/pj02/">try again</a>?</p>
+  <div class="text-wrapper">
+      <div class="title">
+        An error has occured
+      </div>
+      <div class="subtitle">
+        <p>The value you provided was invalid for conversion.</p>
+      </div>
+      <div class="buttons">
+        <a class="button" href="/pj02/">try again?</a>
+      </div>
   </div>
 </body>
+</div>
