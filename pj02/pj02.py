@@ -7,7 +7,7 @@ def application(env, start_response):
     """The main uWSGI application."""
     start_response('200 OK', [('Content-Type', 'text/html')])
     qs = parse_qs(env['QUERY_STRING'])
-    """Handling the GET/ Query String Interface."""
+    """Handling the Query String Interface."""
     if len(qs) > 0:
       #If there exist a query string
       qsNumber = qs.get("num")
@@ -46,9 +46,11 @@ def application(env, start_response):
       qsNumber = qs.get("b'num")
       qsNumber = qsNumber[0]
       qsFrombase = qs.get("frombase")
+      #gets frombase value then saves into int
       qsFrombase = int(str(qsFrombase[0]))
       qsTobase = qs.get("tobase")
       qsTobase = str(qsTobase[0])
+      #removes the trailing single quote from tobase and saves into int
       qsTobase = int(qsTobase[0:len(qsTobase)-1])
       try:
         converted = int(qsNumber,qsFrombase)
@@ -73,7 +75,7 @@ def application(env, start_response):
         }
         response = html_template.render(**html_dict)
         return response.encode()
-    
+    """Handling the GET/ general page access."""
     else:
       html_template = Template(filename='./templates/calc.html')
       html_dict ={
