@@ -1,0 +1,1068 @@
+4279456373 2682 /home/student/submit.sh
+
+vm255
+172.19.50.140 192.168.122.1 
+Linux vm255 3.10.0-862.9.1.el7.x86_64 #1 SMP Wed Jun 27 04:30:39 EDT 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+775 drwxrwxr-x /home/student/projects/pj02 
+775 drwxrwxr-x /home/student/projects/pj02/include 
+775 drwxrwxr-x /home/student/projects/pj02/lib 
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7 
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/easy_install.py 2108751731
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/__init__.py 3669701738
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/py31compat.py 1464601305
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/appdirs.py 1802800719
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/pyparsing.py 2097171559
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/six.py 3147264201
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__about__.py 3672763125
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__init__.py 3084398132
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/_compat.py 3633081061
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/_structures.py 3615484021
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/markers.py 131449461
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/requirements.py 1506244633
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py 3054490411
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/utils.py 1873512111
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/version.py 2860299598
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/__about__.cpython-37.pyc 3978870940
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/__init__.cpython-37.pyc 684722286
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/_compat.cpython-37.pyc 547462697
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/_structures.cpython-37.pyc 2486345095
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/markers.cpython-37.pyc 1624847660
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/requirements.cpython-37.pyc 2953770658
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/specifiers.cpython-37.pyc 2555693692
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/utils.cpython-37.pyc 2614287432
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/__pycache__/version.cpython-37.pyc 1658752979
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__pycache__/__init__.cpython-37.pyc 3714837189
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__pycache__/appdirs.cpython-37.pyc 2339090888
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__pycache__/pyparsing.cpython-37.pyc 838486804
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/_vendor/__pycache__/six.cpython-37.pyc 3231015028
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/extern 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/extern/__init__.py 1931431705
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/extern/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/extern/__pycache__/__init__.cpython-37.pyc 278859738
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/__pycache__/__init__.cpython-37.pyc 644988713
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pkg_resources/__pycache__/py31compat.cpython-37.pyc 3973144384
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__init__.py 2464032390
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/archive_util.py 4048703748
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/build_meta.py 215490292
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/cli-32.exe 4016325579
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/cli-64.exe 4084583358
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/cli.exe 4016325579
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/config.py 2847923421
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/dep_util.py 715165837
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/depends.py 1725748603
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/dist.py 124852781
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/extension.py 736371519
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/glibc.py 1147667353
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/glob.py 958797142
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/gui-32.exe 3770600491
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/gui-64.exe 2947212615
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/gui.exe 3770600491
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/launch.py 1783670290
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/lib2to3_ex.py 3921000151
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/monkey.py 1307778174
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/msvc.py 1898917956
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/namespaces.py 2897564674
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/package_index.py 1078197162
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/pep425tags.py 873531766
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/py27compat.py 3013316898
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/py31compat.py 3934122837
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/py33compat.py 4164693618
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/py36compat.py 1176826353
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/sandbox.py 3945867036
+ 
+ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/script.tmpl 2856326404
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/site-patch.py 1826040643
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/ssl_support.py 3049797395
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/unicode_utils.py 1444900940
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/version.py 2165909068
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/wheel.py 3684862134
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/windows_support.py 2688480585
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/pyparsing.py 2097171559
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/six.py 3147264201
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__about__.py 3672763125
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__init__.py 3084398132
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/_compat.py 3633081061
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/_structures.py 3615484021
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/markers.py 3437904506
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/requirements.py 1315783680
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/specifiers.py 3054490411
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/utils.py 1873512111
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/version.py 2860299598
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/__about__.cpython-37.pyc 1007387665
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/__init__.cpython-37.pyc 417089992
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/_compat.cpython-37.pyc 1709693321
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/_structures.cpython-37.pyc 769991476
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/markers.cpython-37.pyc 1755147250
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/requirements.cpython-37.pyc 303660417
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/specifiers.cpython-37.pyc 3743573827
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/utils.cpython-37.pyc 2368253145
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/packaging/__pycache__/version.cpython-37.pyc 1377150971
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-37.pyc 198788806
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/__pycache__/pyparsing.cpython-37.pyc 5270763
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/_vendor/__pycache__/six.cpython-37.pyc 618135620
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__init__.py 4208728553
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/alias.py 2140881419
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/bdist_egg.py 3036273928
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/bdist_rpm.py 3581349098
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/bdist_wininst.py 3548465433
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/build_clib.py 602980890
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/build_ext.py 320519334
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/build_py.py 729451088
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/develop.py 1011046143
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/dist_info.py 284078793
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/easy_install.py 4151757624
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/egg_info.py 141817022
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/install.py 3340677072
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/install_egg_info.py 2284753182
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/install_lib.py 1038981158
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/install_scripts.py 3905807214
+ 
+ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/py36compat.py 2680201068
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/register.py 66659809
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/rotate.py 861827780
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/saveopts.py 2016934990
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/sdist.py 3732686794
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/setopt.py 3583223034
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/test.py 1171410527
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/upload.py 2940611506
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/upload_docs.py 1400892045
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/__init__.cpython-37.pyc 514368549
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/alias.cpython-37.pyc 258764568
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/bdist_egg.cpython-37.pyc 3625673653
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/bdist_rpm.cpython-37.pyc 2029757916
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/bdist_wininst.cpython-37.pyc 2220061862
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/build_clib.cpython-37.pyc 2000300613
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/build_ext.cpython-37.pyc 1980637471
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/build_py.cpython-37.pyc 1069729083
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/develop.cpython-37.pyc 3551923150
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/dist_info.cpython-37.pyc 2975923333
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/easy_install.cpython-37.pyc 4109376519
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/egg_info.cpython-37.pyc 139796757
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/install.cpython-37.pyc 3959772685
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/install_egg_info.cpython-37.pyc 624039511
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/install_lib.cpython-37.pyc 3261758274
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/install_scripts.cpython-37.pyc 267756736
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/py36compat.cpython-37.pyc 1646141925
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/register.cpython-37.pyc 595232307
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/rotate.cpython-37.pyc 714094044
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/saveopts.cpython-37.pyc 1774428169
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/sdist.cpython-37.pyc 1815559972
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/setopt.cpython-37.pyc 2514540505
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/test.cpython-37.pyc 196018546
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/upload.cpython-37.pyc 4269269513
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/command/__pycache__/upload_docs.cpython-37.pyc 2403597682
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/extern 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/extern/__init__.py 2851919834
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/extern/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/extern/__pycache__/__init__.cpython-37.pyc 772796879
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/__init__.cpython-37.pyc 3487096442
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/archive_util.cpython-37.pyc 3348952479
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/build_meta.cpython-37.pyc 1643451953
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/config.cpython-37.pyc 4289542704
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/dep_util.cpython-37.pyc 4131236431
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/depends.cpython-37.pyc 1694729070
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/dist.cpython-37.pyc 1730552345
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/extension.cpython-37.pyc 1184280785
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/glibc.cpython-37.pyc 1219399176
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/glob.cpython-37.pyc 1911601013
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/launch.cpython-37.pyc 4249563676
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/lib2to3_ex.cpython-37.pyc 3074061022
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/monkey.cpython-37.pyc 2764229626
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/msvc.cpython-37.pyc 3586954634
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/namespaces.cpython-37.pyc 3103524198
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/package_index.cpython-37.pyc 948777983
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/pep425tags.cpython-37.pyc 4142608606
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/py27compat.cpython-37.pyc 2437905865
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/py31compat.cpython-37.pyc 3724816409
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/py33compat.cpython-37.pyc 3363268748
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/py36compat.cpython-37.pyc 1940297936
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/sandbox.cpython-37.pyc 1718074238
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/site-patch.cpython-37.pyc 1205231383
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/ssl_support.cpython-37.pyc 3287099433
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/unicode_utils.cpython-37.pyc 1423575618
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/version.cpython-37.pyc 1519596448
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/wheel.cpython-37.pyc 1049720957
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools/__pycache__/windows_support.cpython-37.pyc 3007409107
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/DESCRIPTION.rst 50996344
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/LICENSE.txt 2030813752
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/dependency_links.txt 3781459875
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/entry_points.txt 3667515338
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/metadata.json 1482154553
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/top_level.txt 916401805
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/zip-safe 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/WHEEL 3565997910
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/METADATA 2516048103
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/RECORD 147835834
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/setuptools-39.0.1.dist-info/INSTALLER 251000266
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/__pycache__/easy_install.cpython-37.pyc 1667420690
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/__pycache__/uwsgidecorators.cpython-37.pyc 1500326127
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/__init__.py 3353460837
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/__main__.py 2553305489
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__init__.py 194300801
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/basecommand.py 1224706954
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/baseparser.py 1144731994
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/build_env.py 3720464015
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/cache.py 669079781
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/cmdoptions.py 70817825
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/compat.py 583687191
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/configuration.py 3527439181
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/download.py 53072839
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/exceptions.py 4049616891
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/index.py 2359988478
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/locations.py 779542805
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/pep425tags.py 1163602814
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/resolve.py 3043848922
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/status_codes.py 3004609382
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/wheel.py 408316394
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__init__.py 971342164
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/check.py 2688531301
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/completion.py 2620967340
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/configuration.py 1993688463
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/download.py 3035122905
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/freeze.py 616920608
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/hash.py 3637108645
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/help.py 1451299787
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/install.py 1571083180
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/list.py 3322243879
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/search.py 1248095846
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/show.py 3712503847
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/uninstall.py 3782164482
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/wheel.py 1080565297
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/__init__.cpython-37.pyc 2449278960
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/check.cpython-37.pyc 2977038773
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/completion.cpython-37.pyc 2527123256
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/configuration.cpython-37.pyc 2459083401
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/download.cpython-37.pyc 3733775396
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/freeze.cpython-37.pyc 47473665
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/hash.cpython-37.pyc 1719409236
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/help.cpython-37.pyc 3320999401
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/install.cpython-37.pyc 709039012
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/list.cpython-37.pyc 3078877006
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/search.cpython-37.pyc 2347912130
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/show.cpython-37.pyc 2769035099
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/uninstall.cpython-37.pyc 290639413
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/commands/__pycache__/wheel.cpython-37.pyc 2187854600
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models/__init__.py 689743607
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models/index.py 1583468170
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models/__pycache__/__init__.cpython-37.pyc 2073326175
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/models/__pycache__/index.cpython-37.pyc 4240772688
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/check.py 1716332604
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/freeze.py 385423710
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/prepare.py 4213683431
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__pycache__/__init__.cpython-37.pyc 2522468003
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__pycache__/check.cpython-37.pyc 2891241511
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__pycache__/freeze.cpython-37.pyc 1443936146
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/operations/__pycache__/prepare.cpython-37.pyc 3352933796
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__init__.py 2300232833
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/req_file.py 1301632138
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/req_install.py 1268675927
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/req_set.py 2541166605
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/req_tracker.py 154195207
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/req_uninstall.py 2230588334
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/__init__.cpython-37.pyc 1420611619
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/req_file.cpython-37.pyc 2047896670
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/req_install.cpython-37.pyc 4264050403
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/req_set.cpython-37.pyc 851588536
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/req_tracker.cpython-37.pyc 2094914172
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/req/__pycache__/req_uninstall.cpython-37.pyc 422890572
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/appdirs.py 17295372
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/deprecation.py 3651549820
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/encoding.py 404609243
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/filesystem.py 200573172
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/glibc.py 613418776
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/hashes.py 3297677299
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/logging.py 1572385544
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/misc.py 1305074076
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/outdated.py 678893066
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/packaging.py 3870259295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/setuptools_build.py 2452367978
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/temp_dir.py 4119544102
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/typing.py 2488796715
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/ui.py 986752621
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/__init__.cpython-37.pyc 1706906112
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/appdirs.cpython-37.pyc 1472187034
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/deprecation.cpython-37.pyc 2645392352
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/encoding.cpython-37.pyc 414759763
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/filesystem.cpython-37.pyc 297231950
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/glibc.cpython-37.pyc 286310688
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/hashes.cpython-37.pyc 2056215499
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/logging.cpython-37.pyc 860308315
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/misc.cpython-37.pyc 2295775745
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/outdated.cpython-37.pyc 385151328
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/packaging.cpython-37.pyc 20880856
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/setuptools_build.cpython-37.pyc 1625617710
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/temp_dir.cpython-37.pyc 3211001208
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/typing.cpython-37.pyc 266049780
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/utils/__pycache__/ui.cpython-37.pyc 1885005058
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__init__.py 1795728363
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/bazaar.py 3276830619
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/git.py 2229903624
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/mercurial.py 1303198521
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/subversion.py 3741869264
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__/__init__.cpython-37.pyc 2613707996
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__/bazaar.cpython-37.pyc 2983423497
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__/git.cpython-37.pyc 2456582906
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__/mercurial.cpython-37.pyc 2576282333
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/vcs/__pycache__/subversion.cpython-37.pyc 1183209725
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/__init__.cpython-37.pyc 4169175758
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/basecommand.cpython-37.pyc 2155954871
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/baseparser.cpython-37.pyc 1999866841
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/build_env.cpython-37.pyc 3418384862
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/cache.cpython-37.pyc 228903578
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/cmdoptions.cpython-37.pyc 1721838972
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/compat.cpython-37.pyc 2070120133
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/configuration.cpython-37.pyc 1843228512
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/download.cpython-37.pyc 1207885585
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/exceptions.cpython-37.pyc 673151292
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/index.cpython-37.pyc 3275484142
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/locations.cpython-37.pyc 4019703567
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/pep425tags.cpython-37.pyc 2716863070
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/resolve.cpython-37.pyc 2649959342
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/status_codes.cpython-37.pyc 854106645
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_internal/__pycache__/wheel.cpython-37.pyc 3226339668
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__init__.py 1295956050
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/appdirs.py 3089287656
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distro.py 3894388070
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/ipaddress.py 2291380653
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pyparsing.py 211615749
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/retrying.py 2702428998
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/six.py 2051537075
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__init__.py 547306479
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/_cmd.py 3555291888
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/adapter.py 2357514224
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/cache.py 2466820452
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/compat.py 2436394597
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/controller.py 1212626679
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/filewrapper.py 3149556806
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/heuristics.py 4093669051
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/serialize.py 2500358606
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/wrapper.py 2717749804
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/__init__.py 972582724
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py 3335841702
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py 3620403172
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/__init__.cpython-37.pyc 2062556623
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/file_cache.cpython-37.pyc 2533772393
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/caches/__pycache__/redis_cache.cpython-37.pyc 44649058
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/__init__.cpython-37.pyc 1532375642
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/_cmd.cpython-37.pyc 771524522
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/adapter.cpython-37.pyc 507469695
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/cache.cpython-37.pyc 1897137754
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/compat.cpython-37.pyc 3341863849
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/controller.cpython-37.pyc 2583187445
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/filewrapper.cpython-37.pyc 508068915
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/heuristics.cpython-37.pyc 253179981
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/serialize.cpython-37.pyc 3502109184
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/cachecontrol/__pycache__/wrapper.cpython-37.pyc 4272839649
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__init__.py 3919823541
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__main__.py 2403561511
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/cacert.pem 1218377229
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/core.py 1076601390
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__pycache__/__init__.cpython-37.pyc 1379450605
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__pycache__/__main__.cpython-37.pyc 961426900
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/certifi/__pycache__/core.cpython-37.pyc 1488193425
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__init__.py 1871920933
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/big5freq.py 3735003504
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/big5prober.py 3505327864
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/chardistribution.py 757678829
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/charsetgroupprober.py 670567004
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/charsetprober.py 1286270106
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/codingstatemachine.py 303254585
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/compat.py 284605052
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cp949prober.py 4151818881
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/enums.py 1405298699
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/escprober.py 441550112
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/escsm.py 24798452
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/eucjpprober.py 1991704089
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/euckrfreq.py 3298796606
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/euckrprober.py 3277362416
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/euctwfreq.py 884080142
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/euctwprober.py 3640772066
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/gb2312freq.py 3590733209
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/gb2312prober.py 468491955
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/hebrewprober.py 13122780
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/jisfreq.py 3529791152
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/jpcntx.py 2955503632
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langbulgarianmodel.py 1965610526
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langcyrillicmodel.py 260080514
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langgreekmodel.py 1372959416
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langhebrewmodel.py 1632717249
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langhungarianmodel.py 1937140979
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langthaimodel.py 1760039085
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/langturkishmodel.py 2519926949
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/latin1prober.py 3335126001
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/mbcharsetprober.py 3031430009
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/mbcsgroupprober.py 2030282790
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/mbcssm.py 708388234
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/sbcharsetprober.py 2939893322
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/sbcsgroupprober.py 3065995377
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/sjisprober.py 2642988227
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/universaldetector.py 2584206518
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/utf8prober.py 3687230229
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/version.py 3450263107
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli/__init__.py 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli/chardetect.py 272387816
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli/__pycache__/__init__.cpython-37.pyc 4054438960
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/cli/__pycache__/chardetect.cpython-37.pyc 2193515740
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/__init__.cpython-37.pyc 2235097813
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/big5freq.cpython-37.pyc 885393121
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/big5prober.cpython-37.pyc 3052292655
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/utf8prober.cpython-37.pyc 1109411069
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/chardistribution.cpython-37.pyc 1357646861
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/universaldetector.cpython-37.pyc 811704338
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/charsetgroupprober.cpython-37.pyc 3596098592
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/charsetprober.cpython-37.pyc 1335961872
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/version.cpython-37.pyc 576618040
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/codingstatemachine.cpython-37.pyc 2376293694
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/compat.cpython-37.pyc 238124396
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/cp949prober.cpython-37.pyc 2541952388
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/enums.cpython-37.pyc 1737861953
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/escprober.cpython-37.pyc 2132705459
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/escsm.cpython-37.pyc 3429609658
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/eucjpprober.cpython-37.pyc 4046701301
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/euckrfreq.cpython-37.pyc 2758281925
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/euckrprober.cpython-37.pyc 2972719021
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/euctwfreq.cpython-37.pyc 1560960361
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/euctwprober.cpython-37.pyc 1591289155
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/gb2312freq.cpython-37.pyc 1050617048
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/gb2312prober.cpython-37.pyc 2279579519
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/hebrewprober.cpython-37.pyc 1505166729
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/jisfreq.cpython-37.pyc 2396087548
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/jpcntx.cpython-37.pyc 3077111156
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langbulgarianmodel.cpython-37.pyc 1289502267
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langcyrillicmodel.cpython-37.pyc 3204466812
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langgreekmodel.cpython-37.pyc 412166310
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langhebrewmodel.cpython-37.pyc 1218713077
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langhungarianmodel.cpython-37.pyc 4230098750
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langthaimodel.cpython-37.pyc 3540162767
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/langturkishmodel.cpython-37.pyc 1489574607
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/latin1prober.cpython-37.pyc 2829831708
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/mbcharsetprober.cpython-37.pyc 2443652276
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/mbcsgroupprober.cpython-37.pyc 3200805397
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/mbcssm.cpython-37.pyc 2255060761
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/sbcharsetprober.cpython-37.pyc 276659332
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/sbcsgroupprober.cpython-37.pyc 3573993589
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/chardet/__pycache__/sjisprober.cpython-37.pyc 1497258919
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__init__.py 3904567663
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/ansi.py 247538325
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/ansitowin32.py 943020849
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/initialise.py 2000526751
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/win32.py 2541732153
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/winterm.py 2313379709
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/__init__.cpython-37.pyc 3692487065
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/ansi.cpython-37.pyc 338111815
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/ansitowin32.cpython-37.pyc 981716267
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/initialise.cpython-37.pyc 1971047279
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/win32.cpython-37.pyc 2609956357
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/colorama/__pycache__/winterm.cpython-37.pyc 2555050807
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__init__.py 3327757084
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/compat.py 3221657671
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/database.py 642351587
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/index.py 2693612284
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/locators.py 20684797
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/manifest.py 2142211480
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/markers.py 855751286
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/metadata.py 289390453
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/resources.py 2975341401
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/scripts.py 1207613092
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/t32.exe 384491022
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/t64.exe 4282948822
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/util.py 3299421968
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/version.py 2604877520
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/w32.exe 353405447
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/w64.exe 1462076152
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/wheel.py 205133336
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__init__.py 983188758
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/misc.py 3173811236
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/shutil.py 2226820566
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg 569079458
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/sysconfig.py 2284351218
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/tarfile.py 1337212354
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__/__init__.cpython-37.pyc 1551873849
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__/misc.cpython-37.pyc 1249316062
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__/shutil.cpython-37.pyc 2518207686
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__/sysconfig.cpython-37.pyc 2857174035
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/_backport/__pycache__/tarfile.cpython-37.pyc 2064779986
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/__init__.cpython-37.pyc 1956000657
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/compat.cpython-37.pyc 1924578986
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/database.cpython-37.pyc 344725254
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/index.cpython-37.pyc 929041930
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/locators.cpython-37.pyc 2964457010
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/manifest.cpython-37.pyc 354293098
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/markers.cpython-37.pyc 140893906
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/metadata.cpython-37.pyc 164495102
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/resources.cpython-37.pyc 1082292668
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/scripts.cpython-37.pyc 963329191
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/util.cpython-37.pyc 1027580794
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/version.cpython-37.pyc 2075046138
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/distlib/__pycache__/wheel.cpython-37.pyc 702370137
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__init__.py 435547542
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_ihatexml.py 1309511113
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_inputstream.py 179942673
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_tokenizer.py 1034454758
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_utils.py 3749108015
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/constants.py 3769568216
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/html5parser.py 3747123359
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/serializer.py 1553720109
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__init__.py 644989306
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/_base.py 3172992706
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/datrie.py 3781329060
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/py.py 789889397
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__pycache__/__init__.cpython-37.pyc 1826698631
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__pycache__/_base.cpython-37.pyc 227712445
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__pycache__/datrie.cpython-37.pyc 1365727113
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/_trie/__pycache__/py.cpython-37.pyc 1343821383
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py 2758691
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/base.py 709773059
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py 1138171337
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/lint.py 2272906148
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/optionaltags.py 1745504761
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py 4078008352
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/whitespace.py 3577868955
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/__init__.cpython-37.pyc 2936646960
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/alphabeticalattributes.cpython-37.pyc 1879082482
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/base.cpython-37.pyc 2149969564
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/inject_meta_charset.cpython-37.pyc 2596656530
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/lint.cpython-37.pyc 962516597
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/optionaltags.cpython-37.pyc 1163260612
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/sanitizer.cpython-37.pyc 1089715003
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/__pycache__/whitespace.cpython-37.pyc 1636120769
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py 4255673015
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py 1930191913
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/sax.py 1326320983
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/__init__.cpython-37.pyc 1111751568
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/genshi.cpython-37.pyc 519809450
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treeadapters/__pycache__/sax.cpython-37.pyc 4103541487
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py 3713427223
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/base.py 2329050966
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/dom.py 1621214806
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/etree.py 1769785664
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py 1725722758
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/__init__.cpython-37.pyc 1561944273
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/base.cpython-37.pyc 3962979145
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/dom.cpython-37.pyc 370793427
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/etree.cpython-37.pyc 1326662934
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treebuilders/__pycache__/etree_lxml.cpython-37.pyc 165345559
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py 2150938022
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/base.py 2408791943
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/dom.py 3349694848
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/etree.py 1217463268
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py 1765682405
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py 728220828
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/__init__.cpython-37.pyc 823692736
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/base.cpython-37.pyc 3793601979
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/dom.cpython-37.pyc 3494316830
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/etree.cpython-37.pyc 2917375008
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/etree_lxml.cpython-37.pyc 3313618367
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/treewalkers/__pycache__/genshi.cpython-37.pyc 2691578980
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/__init__.cpython-37.pyc 1347583122
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/_ihatexml.cpython-37.pyc 4197482175
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/_inputstream.cpython-37.pyc 3029936685
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/_tokenizer.cpython-37.pyc 3053901700
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/_utils.cpython-37.pyc 2020077510
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/constants.cpython-37.pyc 1350391056
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/html5parser.cpython-37.pyc 209953912
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/html5lib/__pycache__/serializer.cpython-37.pyc 138050991
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__init__.py 3668313175
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/codec.py 650450450
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/compat.py 2810499655
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/core.py 224622582
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/idnadata.py 2237339198
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/intranges.py 2507779798
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/package_data.py 2654889651
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/uts46data.py 1663601382
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/__init__.cpython-37.pyc 3838642004
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/codec.cpython-37.pyc 3451665099
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/compat.cpython-37.pyc 4294162213
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/core.cpython-37.pyc 3658562085
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/idnadata.cpython-37.pyc 889480903
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/intranges.cpython-37.pyc 1529709678
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/package_data.cpython-37.pyc 3543578121
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/idna/__pycache__/uts46data.cpython-37.pyc 855593155
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__init__.py 2404635016
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/linklockfile.py 3301116184
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/mkdirlockfile.py 402204625
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/pidlockfile.py 4106815654
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/sqlitelockfile.py 2554359038
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/symlinklockfile.py 2682422948
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/__init__.cpython-37.pyc 1218722567
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/linklockfile.cpython-37.pyc 731610971
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/mkdirlockfile.cpython-37.pyc 1838736437
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/pidlockfile.cpython-37.pyc 2020468526
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/sqlitelockfile.cpython-37.pyc 2619355494
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/lockfile/__pycache__/symlinklockfile.cpython-37.pyc 3281762725
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__init__.py 1565154576
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/_version.py 695399253
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/exceptions.py 911464283
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/fallback.py 2964516696
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__pycache__/__init__.cpython-37.pyc 3942454796
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__pycache__/_version.cpython-37.pyc 3439068360
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__pycache__/exceptions.cpython-37.pyc 1203292008
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/msgpack/__pycache__/fallback.cpython-37.pyc 1820972323
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__about__.py 4155259510
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__init__.py 3084398132
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/_compat.py 3633081061
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/_structures.py 3753414817
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/markers.py 1631445839
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/requirements.py 986233901
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/specifiers.py 3924317839
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/utils.py 3675250667
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/version.py 3388462256
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/__about__.cpython-37.pyc 3925724897
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/__init__.cpython-37.pyc 3084714400
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/_compat.cpython-37.pyc 2180459869
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/_structures.cpython-37.pyc 2762269486
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/markers.cpython-37.pyc 2399968478
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/requirements.cpython-37.pyc 953454033
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/specifiers.cpython-37.pyc 3829761758
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/utils.cpython-37.pyc 1162083990
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/packaging/__pycache__/version.cpython-37.pyc 820810387
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources/__init__.py 2874835323
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources/py31compat.py 1464601305
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources/__pycache__/__init__.cpython-37.pyc 4146124738
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pkg_resources/__pycache__/py31compat.cpython-37.pyc 1214796153
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__init__.py 2940390711
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/bar.py 1268385196
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/counter.py 1513045979
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/helpers.py 2765504637
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/spinner.py 939680064
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__/__init__.cpython-37.pyc 3446816334
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__/bar.cpython-37.pyc 1443149738
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__/counter.cpython-37.pyc 400520979
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__/helpers.cpython-37.pyc 1746582976
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/progress/__pycache__/spinner.cpython-37.pyc 3957286357
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__init__.py 3904348082
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/core.py 1433686719
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/parser.py 2351155985
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/writer.py 4014260506
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__pycache__/__init__.cpython-37.pyc 2923965342
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__pycache__/core.cpython-37.pyc 3767730605
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__pycache__/parser.cpython-37.pyc 1577209816
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/pytoml/__pycache__/writer.cpython-37.pyc 3615941564
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__init__.py 2246562642
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__version__.py 4207021090
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/_internal_utils.py 3696298062
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/adapters.py 1283114118
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/api.py 2083312846
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/auth.py 4089382571
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/certs.py 2990416144
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/compat.py 2885624021
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/cookies.py 2471488490
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/exceptions.py 1702876859
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/help.py 2833780450
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/hooks.py 1238895791
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/models.py 3348856974
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/packages.py 1917919442
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/sessions.py 801860246
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/status_codes.py 2907621045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/structures.py 912843578
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/utils.py 3429185785
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/__init__.cpython-37.pyc 1810109857
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/__version__.cpython-37.pyc 624609395
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/_internal_utils.cpython-37.pyc 4006619274
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/adapters.cpython-37.pyc 4287332970
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/api.cpython-37.pyc 2495760085
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/auth.cpython-37.pyc 726412292
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/certs.cpython-37.pyc 3225121139
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/compat.cpython-37.pyc 2782538143
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/cookies.cpython-37.pyc 2572164456
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/exceptions.cpython-37.pyc 3928393316
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/help.cpython-37.pyc 3810141028
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/hooks.cpython-37.pyc 2188567907
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/models.cpython-37.pyc 933581578
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/packages.cpython-37.pyc 4088567613
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/sessions.cpython-37.pyc 3482795341
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/status_codes.cpython-37.pyc 748838328
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/structures.cpython-37.pyc 1074226604
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/requests/__pycache__/utils.cpython-37.pyc 2186277960
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__init__.py 2448607678
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/_collections.py 2224456646
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/connection.py 1829982606
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/connectionpool.py 2149095056
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/exceptions.py 2329571140
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/fields.py 2734302874
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/filepost.py 4250192610
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/poolmanager.py 1149891435
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/request.py 514253614
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/response.py 1226559479
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/appengine.py 742220674
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py 3187031186
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py 3969770899
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/securetransport.py 1401801472
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/socks.py 1421320
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py 1194515947
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py 3431144864
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/__init__.cpython-37.pyc 3133919763
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/bindings.cpython-37.pyc 1279861944
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__/low_level.cpython-37.pyc 4165462851
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/__init__.cpython-37.pyc 2657053574
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/appengine.cpython-37.pyc 965669828
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/ntlmpool.cpython-37.pyc 2099533610
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/pyopenssl.cpython-37.pyc 99984351
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/securetransport.cpython-37.pyc 1418639635
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/contrib/__pycache__/socks.cpython-37.pyc 1923503950
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/__init__.py 960713005
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py 938811151
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/six.py 3147264201
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py 76700871
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/__init__.cpython-37.pyc 2147493668
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__/makefile.cpython-37.pyc 4046220686
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py 2568555645
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py 1563752619
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__/__init__.cpython-37.pyc 1467612701
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__/_implementation.cpython-37.pyc 3350311242
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/__pycache__/__init__.cpython-37.pyc 10516512
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/__pycache__/ordered_dict.cpython-37.pyc 2485567888
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/__pycache__/six.cpython-37.pyc 220752144
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__init__.py 1678306268
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/connection.py 1819034057
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/queue.py 3298607608
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/request.py 1927826524
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/response.py 3773951790
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/retry.py 4135019596
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/ssl_.py 473600790
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/timeout.py 3887483714
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/url.py 1114387052
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/wait.py 1722700350
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/__init__.cpython-37.pyc 400804245
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/connection.cpython-37.pyc 3161640089
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/queue.cpython-37.pyc 3581499699
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/request.cpython-37.pyc 4217288429
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/response.cpython-37.pyc 28040189
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/retry.cpython-37.pyc 2648168813
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/ssl_.cpython-37.pyc 1874131807
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/timeout.cpython-37.pyc 1658062976
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/url.cpython-37.pyc 1845868140
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/util/__pycache__/wait.cpython-37.pyc 3511412199
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/__init__.cpython-37.pyc 2305848392
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/_collections.cpython-37.pyc 1539746339
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/connection.cpython-37.pyc 597157793
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/connectionpool.cpython-37.pyc 1903462899
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/exceptions.cpython-37.pyc 1380343491
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/fields.cpython-37.pyc 3741042718
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/filepost.cpython-37.pyc 4074327971
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/poolmanager.cpython-37.pyc 3335861282
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/request.cpython-37.pyc 3336126958
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/urllib3/__pycache__/response.cpython-37.pyc 3662798238
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__init__.py 3000855460
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/labels.py 812753237
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/mklabels.py 100142192
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/tests.py 1426908968
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/x_user_defined.py 2361333006
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__/__init__.cpython-37.pyc 762128758
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__/labels.cpython-37.pyc 2517123200
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__/mklabels.cpython-37.pyc 498726002
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-37.pyc 2783811029
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-37.pyc 1542432998
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/__init__.cpython-37.pyc 1535810696
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/appdirs.cpython-37.pyc 2666770156
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/distro.cpython-37.pyc 3692688083
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/ipaddress.cpython-37.pyc 2732005269
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/pyparsing.cpython-37.pyc 834951620
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/retrying.cpython-37.pyc 1858256165
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/_vendor/__pycache__/six.cpython-37.pyc 1409614060
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/__pycache__/__init__.cpython-37.pyc 2900417520
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip/__pycache__/__main__.cpython-37.pyc 786381425
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/LICENSE.txt 8838788
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/entry_points.txt 2583689392
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/top_level.txt 251000266
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/WHEEL 2670410713
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/METADATA 1790510435
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/RECORD 327366334
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/pip-18.0.dist-info/INSTALLER 251000266
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uwsgidecorators.py 2486315649
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info/PKG-INFO 3270511440
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info/dependency_links.txt 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info/top_level.txt 1754500162
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info/SOURCES.txt 2366537449
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/uWSGI-2.0.17.1-py3.7.egg-info/installed-files.txt 3039182127
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__init__.py 303517488
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/_compat.py 2990570355
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/_constants.py 1241371354
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/_native.py 543970084
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/_speedups.c 2726583344
+775 -rwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-x86_64-linux-gnu.so 3300666427
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__pycache__/__init__.cpython-37.pyc 3308785157
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__pycache__/_compat.cpython-37.pyc 1244963256
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__pycache__/_constants.cpython-37.pyc 526268094
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/markupsafe/__pycache__/_native.cpython-37.pyc 456042271
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/dependency_links.txt 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/not-zip-safe 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/PKG-INFO 3236216715
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/SOURCES.txt 2147318963
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/top_level.txt 4169293464
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/MarkupSafe-1.0-py3.7.egg-info/installed-files.txt 2325893864
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/mako 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/parsetree.py 388919964
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/lookup.py 3187957149
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/exceptions.py 948909428
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/compat.py 3203263564
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/_ast_util.py 2538010701
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/lexer.py 2228517415
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/template.py 1995247723
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/cache.py 4111686507
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/codegen.py 3530632396
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/pyparser.py 3239364241
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/cmd.py 695199778
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/filters.py 2943111266
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/util.py 2763435276
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/pygen.py 2943909007
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__init__.py 3989176101
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/runtime.py 764795697
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ast.py 811745195
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/preprocessors.py 2732773879
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/turbogears.py 2835850892
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/autohandler.py 2576588505
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/pygmentplugin.py 2835601373
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/beaker_cache.py 2966342866
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/babelplugin.py 1803451053
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__init__.py 4294967295
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/extract.py 2094544970
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/linguaplugin.py 1740970467
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/preprocessors.cpython-37.pyc 32813256
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/turbogears.cpython-37.pyc 1319291750
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/autohandler.cpython-37.pyc 3036256799
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/pygmentplugin.cpython-37.pyc 840853553
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/beaker_cache.cpython-37.pyc 2214600226
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/babelplugin.cpython-37.pyc 1789575832
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/__init__.cpython-37.pyc 2655586266
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/extract.cpython-37.pyc 1164693129
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/ext/__pycache__/linguaplugin.cpython-37.pyc 25185487
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__ 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/parsetree.cpython-37.pyc 2068464009
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/lookup.cpython-37.pyc 3950068894
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/exceptions.cpython-37.pyc 1097482559
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/compat.cpython-37.pyc 2867690438
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/_ast_util.cpython-37.pyc 1794985348
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/lexer.cpython-37.pyc 1530433272
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/template.cpython-37.pyc 2969128633
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/cache.cpython-37.pyc 2682309830
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/codegen.cpython-37.pyc 3047680428
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/pyparser.cpython-37.pyc 3086815959
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/cmd.cpython-37.pyc 1641568827
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/filters.cpython-37.pyc 492314010
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/util.cpython-37.pyc 207477453
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/pygen.cpython-37.pyc 1373573827
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/__init__.cpython-37.pyc 3751151340
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/runtime.cpython-37.pyc 1016719088
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/mako/__pycache__/ast.cpython-37.pyc 54393425
+775 drwxrwxr-x /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info 
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/SOURCES.txt 377188137
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/PKG-INFO 1092576140
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/dependency_links.txt 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/top_level.txt 2092600267
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/entry_points.txt 171417973
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/not-zip-safe 3515105045
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/requires.txt 4018772481
+664 -rw-rw-r-- /home/student/projects/pj02/lib/python3.7/site-packages/Mako-1.0.7-py3.7.egg-info/installed-files.txt 1699930819
+777 lrwxrwxrwx /home/student/projects/pj02/lib64 
+775 drwxrwxr-x /home/student/projects/pj02/bin 
+777 lrwxrwxrwx /home/student/projects/pj02/bin/python3 2769979318
+777 lrwxrwxrwx /home/student/projects/pj02/bin/python 2769979318
+775 -rwxrwxr-x /home/student/projects/pj02/bin/easy_install 1660837709
+775 -rwxrwxr-x /home/student/projects/pj02/bin/easy_install-3.7 1660837709
+644 -rw-r--r-- /home/student/projects/pj02/bin/activate 3210760341
+644 -rw-r--r-- /home/student/projects/pj02/bin/activate.csh 1391670610
+644 -rw-r--r-- /home/student/projects/pj02/bin/activate.fish 1004263952
+775 -rwxrwxr-x /home/student/projects/pj02/bin/pip 1000191721
+775 -rwxrwxr-x /home/student/projects/pj02/bin/pip3 1000191721
+775 -rwxrwxr-x /home/student/projects/pj02/bin/pip3.7 1000191721
+775 -rwxrwxr-x /home/student/projects/pj02/bin/uwsgi 4019920105
+775 -rwxrwxr-x /home/student/projects/pj02/bin/mako-render 3943265604
+664 -rw-rw-r-- /home/student/projects/pj02/pyvenv.cfg 4108943969
+664 -rw-rw-r-- /home/student/projects/pj02/pip-selfcheck.json 1752401524
+664 -rw-rw-r-- /home/student/projects/pj02/pj02.py 3207923432
+775 drwxrwxr-x /home/student/projects/pj02/templates 
+664 -rw-rw-r-- /home/student/projects/pj02/templates/calc.html 1870250609
+664 -rw-rw-r-- /home/student/projects/pj02/templates/correct.html 3275405366
+664 -rw-rw-r-- /home/student/projects/pj02/templates/error.html 905634292
+775 drwxrwxr-x /home/student/projects/pj02/static 
+750 -rwxr-x--- /home/student/projects/pj02/static/err.css 374525517
+
+#!/usr/bin/env bash
+
+SCRIPT="$0"
+SCRIPT=$(realpath $SCRIPT)
+SUBMISSION="$1"
+EMAILS="instructor@[172.17.152.251]"
+TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
+HOSTNAME=$(hostname)
+
+if [[ $# -eq 0 ]]; then
+    echo "usage: $SCRIPT project_dir"
+    exit 1
+fi
+
+if [[ ! -d $SUBMISSION ]]; then
+    echo "$SUBMISSION is not a directory"
+    exit 1
+fi
+
+SUBMISSION="$(realpath $SUBMISSION)"                 # absolute path to submission
+PATHTO="$(dirname $SUBMISSION)"                      # path to submission
+PATHTO="$(realpath $PATHTO)"                         # path to submission (no trailing /)
+BASENAME="$(basename $SUBMISSION)"                   # submission directory name
+ARCHIVE="$(basename $SUBMISSION)_$TIMESTAMP.tar.gz"  # archive filename
+RECEIPT="/tmp/rec_$TIMESTAMP"                       # receipt filename
+
+echo "Using '$SCRIPT' to submit '$SUBMISSION' for CSCI 4300"
+
+# create receipt
+echo "- creating receipt at $RECEIPT"
+echo "$(cksum $SCRIPT)" >> "$RECEIPT"                # checksum for submission script
+echo "" >> "$RECEIPT"                                # blank line
+echo "$(hostname)" >> "$RECEIPT"                     # VM name
+echo "$(hostname -I)" >> "$RECEIPT"                  # VM IP address
+echo "$(uname -a)" >> "$RECEIPT"                     # VM info
+echo "" >> "$RECEIPT"                                # blank line
+for FILE in $(find "$SUBMISSION"); do
+    STATINFO=$(stat -c "%a %A %n" "$FILE")           # stat info for each file
+    CHECKSUM=$(cksum "$FILE" 2>/dev/null | awk '{print $1}')     # checksum for each file
+    echo "$STATINFO $CHECKSUM" >> "$RECEIPT"
+done
+
+#find "$SUBMISSION" >> "$RECEIPT"                     # list of files in submission
+#echo "" >> "$RECEIPT"                                # blank line
+#stat -t $(find "$SUBMISSION") >> "$RECEIPT"          # stat info for each file in submission
+echo "" >> "$RECEIPT"                                # blank line
+cat "$SCRIPT" >> "$RECEIPT"                          # submission script
+
+# create archive
+echo "- creating archive at $ARCHIVE"
+tar zcf "$ARCHIVE" -C "$PATHTO" "$BASENAME"
+
+echo "- checking for mutt"
+if [[ ! -x "$(command -v git)" ]]; then
+    echo "-- mutt is not installed." >&2
+    echo "-- installing mutt... (may need to enter password)"
+    sudo yum -q -y install mutt
+    echo "-- successfully installed mutt!"
+fi
+
+echo "- emailing archive"
+mutt -s "[cs4300] $(hostname) $BASENAME $TIMESTAMP" \
+-a $ARCHIVE \
+-a $SCRIPT \
+-a /etc/nginx/nginx.conf \
+-- $EMAILS < $RECEIPT
+
+echo "- deleting archive"
+rm -f "$ARCHIVE"
+
+echo "- moving receipt into '$SUBMISSION'"
+mv "$RECEIPT" "$SUBMISSION/"
+
+echo "- done; if no errors appeared, then your submission was successful!"
+

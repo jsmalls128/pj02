@@ -23,11 +23,20 @@ def application(env, start_response):
         #Converts qsNumber to the right base and saved into converted 
         converted = int(qsNumber,qsFrombase)
         if qsTobase == 2:
-          converted = bin(converted)
+          converted = '{:b}'.format(converted) 
         elif qsTobase == 8:
-          converted = oct(converted)
+          converted = '{:o}'.format(converted)
+        elif qsTobase == 10:
+          converted = '{:d}'.format(converted)
         elif qsTobase == 16:
-          converted = hex(converted)
+          converted = '{:x}'.format(converted)
+        else:
+          html_template = Template(filename='./templates/error.html')
+          html_dict ={
+            'title': 'Base Conversion Calculator'
+          }
+          response = html_template.render(**html_dict)
+          return response.encode() 
         html_template = Template(filename='./templates/correct.html')
         html_dict ={
           'title': 'Base Conversion Calculator',
@@ -61,11 +70,13 @@ def application(env, start_response):
       try:
         converted = int(qsNumber,qsFrombase)
         if qsTobase == 2:
-          converted = bin(converted)
+          converted = '{:b}'.format(converted)
         elif qsTobase == 8:
-          converted = oct(converted)
+          converted = '{:o}'.format(converted)
+        elif qsTobase == 10:
+          converted = '{:d}'.format(converted)
         elif qsTobase == 16:
-          converted = hex(converted)
+          converted = '{:x}'.format(converted) 
         html_template = Template(filename='./templates/correct.html')
         html_dict ={
           'title': 'Base Conversion Calculator',
